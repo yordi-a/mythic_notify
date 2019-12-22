@@ -1,2 +1,1 @@
-# mythic_notify
- 
+Güncellenmiş "mythic_notify"
